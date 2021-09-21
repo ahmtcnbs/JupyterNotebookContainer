@@ -42,6 +42,8 @@ Now the container is running. Jupyter Notebook is an application that works with
         Result: Currently running servers:
                 http://0.0.0.0:8889/?token=c9548150b2bce6263a35228cce7e7c0c10e483a95fe13abe
 
-Now we can login to Jupyter Notebook using this token. (Token : c9548150b2bce6263a35228cce7e7c0c10e483a95fe13abe)
+(Token: c9548150b2bce6263a35228cce7e7c0c10e483a95fe13abe)
 
-http://localhost:8888
+Now, let's log in by creating a password with this token as follows. Now we will login with this password.
+
+![jupyter-notebook](https://user-images.githubusercontent.com/36485110/134185247-f98234b1-1692-43a4-b3ae-24c52ea5b64d.png)
