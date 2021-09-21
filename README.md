@@ -1,4 +1,4 @@
-# JupyterNotebookContainer
+# Jupyter Notebook | Docker Container
 
 http://localhost:8888
 
