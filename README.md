@@ -1,5 +1,7 @@
 # JupyterNotebookContainer
 
+http://localhost:8888
+
 This container contains Jupyter Notebook, which is frequently used in data science project development processes.
 
 ### Setup
@@ -40,3 +42,4 @@ Now the container is running. Jupyter Notebook is an application that works with
 
 Now we can login to Jupyter Notebook using this token. (Token : c9548150b2bce6263a35228cce7e7c0c10e483a95fe13abe)
 
+http://localhost:8888
