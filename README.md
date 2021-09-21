@@ -12,6 +12,8 @@ This container contains Jupyter Notebook, which is frequently used in data scien
         
         $ docker volume inspect myjupyter
         
+(You can change the names ahmtcnbs/jupyternotebook and myjupyter as you wish.)
+        
 Docker Volume is used so that your data is not lost when you close and restart the container. After this command you will get output as below.
         
         [
